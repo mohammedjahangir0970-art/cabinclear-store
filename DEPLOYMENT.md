@@ -1,0 +1,1 @@
+This file is a placeholder for the CabinClear website deployment. The actual website files are in the `dist` folder.
